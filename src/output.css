@@ -1714,6 +1714,9 @@
   .bg-\[rgba\(53\,65\,83\,0\.5\)\] {
     background-color: rgba(53,65,83,0.5);
   }
+  .bg-\[rgba\(54\,54\,54\,0\.\)\] {
+    background-color: rgba(54,54,54,0.);
+  }
   .bg-\[rgba\(54\,54\,54\,0\.3\)\] {
     background-color: rgba(54,54,54,0.3);
   }
